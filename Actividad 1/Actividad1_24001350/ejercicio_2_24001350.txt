@@ -1,0 +1,25 @@
+Sacar a pasear a un perro:
+1- Tener un perro.
+2- Alistar la correa del perro.
+3- Colocar la correa al perro.
+4- Abrir la puerta de la casa.
+5- Salir junto con el perro.
+6- Cerrar la puerta de la casa.
+7- Caminar con el perro.
+8- Regresar a casa con el perro.
+9- Abrir puerta de la casa.
+10- Entrar junto con el perro.
+11- Cerrar la puerta de la casa.
+12- Retirar la correa del perro.
+
+Echar a andar un carro:
+1- Tener un carro.
+2- Alistar la llave del carro.
+3- Entrar al carro.
+4- Cerrar la puerta del carro.
+5- Insertar la llave en el interruptor.
+6- Presionar el pedal de freno.
+7- Girar la llave a la derecha hasta que el motor arranque.
+8- Colocar el cinturón de seguridad.
+9- Seleccionar la marcha adecuada.
+10- Conducir seguro.
